@@ -82,7 +82,7 @@ We welcome contributions to improve this application!
 
 ## License
 
-This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the Pradeep Kumar K - see the [LICENSE.md](LICENSE.md) file for details.
 
 
 
